@@ -1,0 +1,6 @@
+{
+  "name": "DelightPrep — Nigerian Exam Preparation Platform",
+  "description": "Smart Preparation for Better Results. Nigeria's modern exam preparation platform for JSS, SSS, BECE, WAEC, NECO, and JAMB/UTME.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
